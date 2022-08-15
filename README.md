@@ -1,6 +1,6 @@
-# NorenApi-java
+# Phillip9 API -Java
 
-JavaApi used to connect to NorenOMS
+Java API used to connect to Phillip9
 ****
 
 ## Build
@@ -13,7 +13,7 @@ add NorenApi-java-1.1-SNAPSHOT.jar as a dependency
 ****
 
 ## API 
-```NorenApi```
+```Phillip9 API```
 - [login](#md-login)
 - [logout](#md-logout)
 
@@ -2112,21 +2112,6 @@ while(feed_opened==False):
 
 
 ```
-
-****
-
-## Author
-
-Kumar Anand
-
-****
-
-## License
-
-Copyright (C) 2021 Kambala Solutions Pvt Ltd- All Rights Reserved
-Copying of this file, via any medium is strictly prohibited.
-Proprietary and confidential.
-All file transfers are logged.
 
 ****
 
